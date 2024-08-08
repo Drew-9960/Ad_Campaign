@@ -34,16 +34,6 @@ The analysis includes:
 - **Most Ads Day**: The day on which the user saw the highest number of ads.
 - **Most Ads Hour**: The hour of the day when the user saw the highest number of ads.
 
-## Analysis Process
-
-The project follows a structured and fully commented process:
-
-1. **Data Cleaning**: Handling missing values and duplicates.
-2. **EDA**: Visualizing and summarizing the data.
-3. **Hypothesis Testing**: Performing t-tests, Mann-Whitney U tests, and chi-square tests to determine the significance of differences between groups.
-4. **Effect Size and Lift Calculation**: Estimating the improvement in conversion rates and potential revenue gain.
-5. **Conclusion**: Providing insights and recommendations based on the analysis.
-
 ## Results
 
 - The campaign was successful, with the ad group showing a statistically significant higher conversion rate compared to the PSA group.
